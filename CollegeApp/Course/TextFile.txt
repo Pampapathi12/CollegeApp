@@ -1,0 +1,34 @@
+﻿Web API Introduction
+===========================
+1 .Introduction
+2. the evalution of web api
+3. why web api
+4. web api request and response
+5. Http Verbs
+	a. HttpGet
+	b. HtttPost
+	c. HttpPut 
+	d. HttpDelete
+
+6. Creating First EndPoint
+7. DTOs
+8. Exploring the Http Verbs
+9. Using the status Codes
+10. Response Types
+11. Model State Validation
+12. Content Negotiation
+13. Routing
+14. Automapper
+15. Dependency Injection
+16. Entity Framework Core
+	a. Code First
+	b. database first
+
+17. Repository Pattern
+18. Authentication and Authorization
+19. API Versioning
+20. Cors
+21. Swagger with authentication
+22. Postmon
+23. Deploying API
+24. Consuming API
