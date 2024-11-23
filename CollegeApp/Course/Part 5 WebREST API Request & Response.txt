@@ -1,0 +1,38 @@
+﻿[Server] <reuest- response> [Client]
+
+web api request and response
+
+Request part
+Verb -> http actions
+Headers -> are nothing but meta data instruction
+Content -> sending the payload to server
+
+Response Part
+Status -> status code and status
+Headers -> Meta data
+Content -> data sever wants give back to request from the client
+
+
+Verb - http Actions
+===================
+Get
+Post
+Put
+Delete
+Patch
+
+Header - Meta Data
+==================
+Content type -> request json or xml
+Content length -> lenght request content length
+Authorization -> token
+
+Content
+=======
+Test Data -> send to the server
+
+Reponse Object
+
+Status Code
+=======================
+

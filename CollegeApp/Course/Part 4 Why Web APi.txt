@@ -1,0 +1,13 @@
+﻿[UI]   <-> [[BLL] <-> [DBL]] <-> ([DB])
+
+[Ui]  <-> [BU] <-> [DBL] <-> [DB]
+
+
+
+
+[desktop] <-> [WEB API as Middlware] <-> ({DB})
+
+[Mobile app]
+[IOS Application]
+
+web api will handle the all th request from the different ui

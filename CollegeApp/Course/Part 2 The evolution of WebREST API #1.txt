@@ -1,0 +1,53 @@
+﻿ in the C# .Net using the 
+ C# Class
+ Data sets
+ data tables
+ data reader
+ // all the object
+
+ what is java dont know .net calss, 2 different web application, using the web services
+
+
+
+ web services
+ 1. CDO -> Common data representational operation
+ 2. .net data representaion not know the java
+ 3. reseolve this issue solution calles XML
+ 4, java know xml, python, .Net also
+ 5. SOAP Comminication
+
+
+ .Net Object   -> Java Aplication
+ convert the serialization (wsdl)  data objeti  -> into xml -> Java (Wsdl) Proxy Deserialization , Soap Communication
+
+
+
+ communication betweeb 2 different platform
+
+ web services call http calls
+
+
+ WCF -> more then one protocal, more then one data representation
+
+ WCF
+ SOAP
+ REST
+ MDR
+ Protoco
+
+ wcf support the all thing , why web api, one thing to do all the configuration
+which protocal, data, configuration
+
+trigger to another version WEB Api
+
+Web API support -> u dont need to configure anything create project and use it
+ 1. Http
+ 2. Crud
+ 3. WCF for services multipke,duplex
+
+## 2 The Evalution of web applicatoin
+
+instead of XML Using the Json
+json over the xml, its light weight
+xml have the tags and others
+

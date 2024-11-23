@@ -1,0 +1,18 @@
+﻿
+
+
+
+[UI] <-> [BLL] <-> [DBL] <-> ([DB])
+
+
+
+ui -> Angular(ui layer)
+DBL -> read the data from the database
+BLL -> Business logic layer apply the logic on the read from the data base
+DB -> Database
+
+
+
+
+[UI]   <-> [[BLL] <-> [DBL]] <-> ([DB])
+Angular		Web APi	[data]				ssms
